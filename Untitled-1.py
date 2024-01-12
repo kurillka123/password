@@ -1,7 +1,12 @@
 def check_password(password: str):
-    if password > 9:
-        
+    password = '1aA12345678910'
     length = False
+    capital_letter = False
+    lowercase_letter = False
+
+
+
+
 
 
         
